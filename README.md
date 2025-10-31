@@ -8,12 +8,15 @@ I'm a software engineer passionate about **system programming**, **automation**,
 ## 🔍 About Me
 - 🌍 Based in **Athens, Greece**
 - 💼 Currently working at **LAS Solutions**
-- 💻 Experienced in **C**, **Java**, and **TypeScript**
-- 🛠 Interested in **DevOps**, **multithreading**, and **cloud automation**
+- 💻 Experienced in **Python**, **Javascript**, **C/C++**  and **TypeScript**
+- 🛠 Interested in **DevOps**, **Data Science**, **Multithreading**, and **Automation**
 
 ---
 
 ## 📂 Featured Projects
+- **[KafkaErrorStream](https://github.com/SpySioutis)**  
+  A project focused on handling error streams in **Apache Kafka**, demonstrating best practices for resilient message processing and error handling in distributed systems
+
 - **[ansible_tests](https://github.com/SpySioutis/ansible_tests)**  
   Experiments with Ansible playbooks for automation and configuration management.
 
